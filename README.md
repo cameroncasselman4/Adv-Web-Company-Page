@@ -1,6 +1,6 @@
 # Adv-Web-Company-Page
 
 ## About
-As a review, students should create the home page for any fictional company or non-profit. Primarily, the site should be visual and responsive. Text can be minimal, but flexbox and media queries must be used. Grid layout is optional.
+This is for school purposes: Toy website to get the hang of html and css again. Fake company home page about my fake tutoring services.
 
-### link: 
+### link: http://www.connorcasselman.com/Cam/CompanyPage/index.html
